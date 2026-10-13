@@ -1,5 +1,5 @@
 # ============================================================================
-#  Hausübung UE 1 — Daten visualisieren  (SA-01-datenvisualisierung-ggplot)
+#  HÜ Pinguin
 # ----------------------------------------------------------------------------
 #  Name:   Patrice Kuta
 #  Datum:  13. Oktober 2026
